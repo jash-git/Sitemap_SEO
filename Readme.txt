@@ -26,6 +26,7 @@
 02.軟體:
     Cyotek Sitemap Creator - https://zhtwnet.com/cyotek-sitemap-creator-1-0-6-1/
     Sitemap Generator - https://www.moonlol.com/sitemap%E7%94%A2%E7%94%9F%E5%99%A8sitemap-generator-1042.html
+	PHP程式 - https://github.com/gadelkareem/sitemap-creator
 
 ▲提交Sitemap[搜尋引擎曝光(SEO)]
 
